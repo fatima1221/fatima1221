@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about anything, I would like to help!
 - 📫 How to reach me: askerova.fatima1221@gmail.com
-- 😄 Pronouns: She/Her
 
